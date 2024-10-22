@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brawlhalla Player State Simulator", "Brawlhalla Player State Simulator\Brawlhalla Player State Simulator.csproj", "{98A9600D-05CF-41CD-8966-727131D786E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A9600D-05CF-41CD-8966-727131D786E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A9600D-05CF-41CD-8966-727131D786E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A9600D-05CF-41CD-8966-727131D786E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A9600D-05CF-41CD-8966-727131D786E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B0DCB0-4230-4FC1-AE1B-94A8D905DB04}
+	EndGlobalSection
+EndGlobal
